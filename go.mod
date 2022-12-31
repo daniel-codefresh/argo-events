@@ -24,7 +24,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.167
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.1.0
-	github.com/cloudevents/sdk-go/v2 v2.11.0
+	github.com/cloudevents/sdk-go/v2 v2.12.0
 	github.com/colinmarc/hdfs v1.1.4-0.20180802165501-48eb8d6c34a9
 	github.com/eclipse/paho.mqtt.golang v1.4.2
 	github.com/emitter-io/go/v2 v2.0.9
@@ -89,6 +89,8 @@ require (
 
 require (
 	cloud.google.com/go/compute v1.14.0 // indirect
+	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
+	github.com/99designs/keyring v1.2.1 // indirect
 	github.com/AthenZ/athenz v1.10.39 // indirect
 	github.com/Azure/azure-amqp-common-go/v4 v4.0.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.0.0 // indirect
@@ -98,22 +100,27 @@ require (
 	github.com/RocketChat/Rocket.Chat.Go.SDK v0.0.0-20210112200207-10ab4d695d60 // indirect
 	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.3 // indirect
+	github.com/danieljoos/wincred v1.1.2 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
+	github.com/dvsekhvalnov/jose2go v1.5.0 // indirect
 	github.com/emicklei/go-restful/v3 v3.9.0 // indirect
 	github.com/felixge/httpsnoop v1.0.3 // indirect
 	github.com/go-openapi/spec v0.20.4 // indirect
 	github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1 // indirect
+	github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/google/gnostic v0.5.7-v3refs // indirect
 	github.com/google/go-github/v41 v41.0.0 // indirect
 	github.com/google/go-github/v45 v45.2.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.2.0 // indirect
 	github.com/gregdel/pushover v1.1.0 // indirect
+	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/klauspost/cpuid/v2 v2.1.0 // indirect
 	github.com/linkedin/goavro/v2 v2.9.8 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
+	github.com/mtibben/percent v0.2.1 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/oliveagle/jsonpath v0.0.0-20180606110733-2e52cf6e6852 // indirect
